@@ -1,1 +1,0 @@
-Due to the architecture of unayfield, there is nothing magical in using this library, it is enough to simply use local Unayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/moroznz/unayfield/refs/heads/main/unayfield.lua'))() for the full functionality of the interface.
